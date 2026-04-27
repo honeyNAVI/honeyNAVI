@@ -1,6 +1,11 @@
 # <div align="center"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚊𝚟𝚒, 𝚗𝚒𝚌𝚎 𝚝𝚘 𝚖𝚎𝚎𝚝 𝚞! </div>
 
 <div align="center"> Cybersecurity Student | TryHackMe Member | Bug Bounty Enthusiast</div>
+<p></p>
+<div align="center">
+  <img src="https://i.pinimg.com/736x/91/f7/a7/91f7a7abe73ccbdf834cd221cb445f09.jpg" alt="Texto Alternativo" width="500px">
+</div>
+
 
 ## <div align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 :</div>
 
