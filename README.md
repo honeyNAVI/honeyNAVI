@@ -9,6 +9,7 @@
 
 ## <div align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 :</div>
 
+<p>𖦹 My name is Maria Eduarda and I mainly study cybersecurity </p>
 <p>𖦹 I'm passionate about computers, they have being part of my life since im I child.</p>
 <p>𖦹 I'm self-taught when it comes to learning languages (English, French, Japanese) {I still want to learn Russian someday xD}</p>
 <p>𖦹 I like video games and anime a lot</p>
@@ -28,3 +29,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+##
+
+[![TryHackMe](https://tryhackme-badge.s3.amazonaws.com/honeyNAVI.png)](https://tryhackme.com/p/honeyNAVI)
