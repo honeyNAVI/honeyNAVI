@@ -14,6 +14,7 @@
 <p>𖦹 I like video games and anime a lot</p>
 <p>𖦹 Literally Sakura Futaba</p>
 <p>𖦹 I like taking notes in Obsidian! </p>
+<p>𖦹 TRYING HARDER </p>
 
 ##
 
