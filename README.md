@@ -32,4 +32,4 @@
 
 ##
 
-[![TryHackMe](https://tryhackme-badge.s3.amazonaws.com/honeyNAVI.png)](https://tryhackme.com/p/honeyNAVI)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-honeyNAVI-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/honeyNAVI)
