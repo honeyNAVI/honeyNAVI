@@ -1,5 +1,13 @@
 # <div align="center"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚊𝚟𝚒, 𝚗𝚒𝚌𝚎 𝚝𝚘 𝚖𝚎𝚎𝚝 𝚞! </div>
 
+
+<div align="center">
+
+`Natus Vincere is a Latin phrase meaning "Born to Win" or "Born to Conquer"`
+
+</div>
+
+
 <div align="center"> Cybersecurity Student | TryHackMe Member | Bug Bounty Enthusiast</div>
 <p></p>
 <div align="center">
@@ -36,3 +44,4 @@
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ##
+
