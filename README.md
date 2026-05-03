@@ -6,6 +6,11 @@
   <img src="https://i.pinimg.com/736x/91/f7/a7/91f7a7abe73ccbdf834cd221cb445f09.jpg" alt="Texto Alternativo" width="500px">
 </div>
 
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-honeyNAVI-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/honeyNAVI)
+
+</div>
 
 ## <div align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 :</div>
 
@@ -31,5 +36,3 @@
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ##
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-honeyNAVI-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/honeyNAVI)
