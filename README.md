@@ -3,7 +3,7 @@
 
 <div align="center">
 
-`Natus Vincere is a Latin phrase meaning "Born to Win" or "Born to Conquer"`
+`"Try Harder isn't just a motto ― it's a mindset. And once you internalize it, it stays with you everywhere you go." ― Ning Wang`
 
 </div>
 
@@ -23,12 +23,10 @@
 ## <div align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 :</div>
 
 <p>𖦹 My name is Maria Eduarda and I mainly study cybersecurity </p>
+<p>𖦹 Looking for a job opportunity in the IT field!!!! </p>
 <p>𖦹 I'm passionate about computers, they have being part of my life since im I child.</p>
-<p>𖦹 I'm self-taught when it comes to learning languages (English, French, Japanese) {I still want to learn Russian someday xD}</p>
-<p>𖦹 I like video games and anime a lot</p>
-<p>𖦹 Literally Sakura Futaba</p>
+<p>𖦹 I'm self-taught when it comes to learning languages (English - Advanced, Japanese - Intermediate, French - Basic). I still want to learn Russian as well!
 <p>𖦹 I like taking notes in Obsidian! </p>
-<p>𖦹 TRYING HARDER </p>
 
 ##
 
