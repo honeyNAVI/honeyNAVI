@@ -33,7 +33,7 @@ jobs:
       with:
         image_path: './assets/tryhackme-badge.png'
         username: 'honeyNAVI'
-        user_id: '1776280421027'
+        user_id: '69bd9c6e6c46860869cf60e7'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Commit and push badge if changed
