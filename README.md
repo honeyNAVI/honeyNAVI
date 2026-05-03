@@ -13,9 +13,11 @@
 <p>𖦹 I'm self-taught when it comes to learning languages (English, French, Japanese) {I still want to learn Russian someday xD}</p>
 <p>𖦹 I like video games and anime a lot</p>
 <p>𖦹 Literally Sakura Futaba</p>
+<p>𖦹 I like taking notes in Obsidian! </p>
 
 ##
 
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
